@@ -1,0 +1,61 @@
+.btn-primary {
+  background-color: #1e7792;
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+  display: inline-block;
+  border-radius: 4px;
+  margin: 0 10px;
+  transition: 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #0c0f91;
+}
+
+li {
+  overflow: auto;
+}
+
+img {
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+.celda2 {
+  background-color: #1e7792;
+  margin: 10px;
+}
+
+img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.user {
+  text-align: center;
+}
+
+.column {
+  width: 25%;
+  text-decoration: none;
+  color: black;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#lista {
+  width: 80%;
+  text-align: justify;
+  margin: 0 auto;
+}
